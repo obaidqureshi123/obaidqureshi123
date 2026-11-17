@@ -1,23 +1,23 @@
-class ObaidQureshi:
-    def __init__(self):
-        self.name = "Obaid Qureshi"
-        self.role = "Full Stack Developer"
-        self.location = "Karachi, Pakistan"
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</p>
 
-        self.currently_learning = [
-            "ASP.NET Core MVC",
-            "SQL Server",
-            "JavaScript"
-        ]
+<!-- Water Wave Banner -->
+<img src="https://vercel.app" width="100%" />
 
-        self.current_project = "Ghost - Number Guessing Game"
-        self.goal = "Become a Professional Full Stack Developer"
+### ⚡ About Me
+- 👨‍💻 Currently working as a **C# .NET Developer**
+- 🚀 Experienced in building robust backend systems and responsive web applications
+- 🗄️ Strong command over **Relational & Cloud Databases** (SQL, MySQL, SQLite, Firebase)
+- ⚡ Fun fact: **I love writing clean, scalable code and solving complex backend problems!**
 
-    def say_hi(self):
-        print(f"Hi, I'm {self.name} 👋")
-        print("Passionate about building modern web applications.")
-        print("Learning every day, building every day 🚀")
+---
 
-me = ObaidQureshi()
-me.say_hi()
- 
+### 🛠 Tech Stack & Ecosystem
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Framework** | ![C#](https://shields.io) ![.NET](https://shields.io) |
+| **Frontend** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![Bootstrap](https://shields.io) |
+| **Databases & Cloud** | ![MicrosoftSQLServer](https://shields.io) ![MySQL](https://shields.io) ![SQLite](https://shields.io) ![Firebase](https://shields.io) ![Cloud](https://shields.io) |
